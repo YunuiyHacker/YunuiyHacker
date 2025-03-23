@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, friend, I am yunuiy_hacker
+
+Android Developer
+Backend Developer
 
 <!--
 **YunuiyHacker/YunuiyHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
