@@ -29,7 +29,7 @@
 #### - Виджеты: XML, Glance
 #### - Облачные сервисы: Supabase (Kotlin Client, REST API), Firebase
 #### - Работа с изображениями: Glide, Coil
-#### - REST API: Ktor Server, Retrofit
+#### - REST API: Ktor Server, Ktor Client, Retrofit
 #### - СУБД: PostgreSQL, SQLite, MS SQL, MySQL
 #### - Управление проектами: Taiga (Kanban), Yandex Tracker
 #### - Карты: YandexMapKit SDK
