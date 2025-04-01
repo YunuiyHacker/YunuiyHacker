@@ -23,7 +23,7 @@
 ### Стек
 #### - UI: XML, Jetpack Compose
 #### - Gradle: Groovy, Kotlin DSL
-#### - Depenency Injection: Dagger Hilt
+#### - Dependency Injection: Dagger Hilt
 #### - Clean Architecture (паттерн проектирования MVVM)
 #### - Локальное хранение данных: SharedPreferences, Data Store, Room Database
 #### - Виджеты: XML, Glance
