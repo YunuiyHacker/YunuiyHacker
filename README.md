@@ -18,7 +18,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
-![Google Pub](https://img.shields.io/badge/Google_Cloud_Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Pub](https://img.shields.io/badge/CloudPub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Стек
 #### - UI: XML, Jetpack Compose
